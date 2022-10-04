@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539796379261",
+    "project_id": "kovio-coffee",
+    "storage_bucket": "kovio-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539796379261:android:f922737968a4a599424314",
+        "android_client_info": {
+          "package_name": "id.coffee.kovio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539796379261-euhvoqp1igl1jmeqke9htqlqb3hf4vvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkd4JXLqHfxlIL96Xst8H6RhQuBqB2CR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539796379261-euhvoqp1igl1jmeqke9htqlqb3hf4vvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
